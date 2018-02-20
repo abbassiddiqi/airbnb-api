@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Shahmeer's Executive Appartment Gulberg",
-    "imageUrl": "",
+    "imageUrl": "https://cdn.rawgit.com/abbassiddiqi/airbnb-api/4e6cff48/images/flat1.jpg",
     "price": 24,
     "priceCurrency": "$",
     "lat": 31.510409,
@@ -11,7 +11,7 @@
   {
     "id": 2,
     "name": "Alnoor Luxury Apartments Lahore",
-    "imageUrl": "",
+    "imageUrl": "https://cdn.rawgit.com/abbassiddiqi/airbnb-api/4e6cff48/images/flat2.jpg",
     "price": 20,
     "priceCurrency": "$",
     "lat": 31.501371,
@@ -20,7 +20,7 @@
   {
     "id": 3,
     "name": "Modern Bedroom Executive Cottage Lahore Home",
-    "imageUrl": "",
+    "imageUrl": "https://cdn.rawgit.com/abbassiddiqi/airbnb-api/4e6cff48/images/flat3.jpg",
     "price": 16,
     "priceCurrency": "$",
     "lat": 31.48629,
@@ -29,7 +29,7 @@
   {
     "id": 4,
     "name": "Home out of Home at Arfa Software Technology Park",
-    "imageUrl": "",
+    "imageUrl": "https://cdn.rawgit.com/abbassiddiqi/airbnb-api/4e6cff48/images/flat4.jpg",
     "price": 25,
     "priceCurrency": "$",
     "lat": 31.4754377,
@@ -38,7 +38,7 @@
   {
     "id": 5,
     "name": "Royaute Luxury Suites - MM Alam Lahore",
-    "imageUrl": "",
+    "imageUrl": "https://cdn.rawgit.com/abbassiddiqi/airbnb-api/4e6cff48/images/flat5.jpg",
     "price": 22,
     "priceCurrency": "$",
     "lat": 31.521754,
@@ -47,7 +47,7 @@
   {
     "id": 6,
     "name": "3 Bedroom Independent Family Apartment at Nehr waala pull",
-    "imageUrl": "",
+    "imageUrl": "https://cdn.rawgit.com/abbassiddiqi/airbnb-api/4e6cff48/images/flat6.jpg",
     "price": 23,
     "priceCurrency": "$",
     "lat": 31.52074,
@@ -56,7 +56,7 @@
   {
     "id": 7,
     "name": "Lahore Palace Hotel near Jhoolay Laal Daal Chaawal",
-    "imageUrl": "",
+    "imageUrl": "https://cdn.rawgit.com/abbassiddiqi/airbnb-api/4e6cff48/images/flat7.jpg",
     "price": 17,
     "priceCurrency": "$",
     "lat": 31.526333,
@@ -65,7 +65,7 @@
   {
     "id": 8,
     "name": "1Bed Room + Workstation near Shagufta Beauty Parlour in Amazing Price",
-    "imageUrl": "",
+    "imageUrl": "https://cdn.rawgit.com/abbassiddiqi/airbnb-api/4e6cff48/images/flat8.jpg",
     "price": 21,
     "priceCurrency": "$",
     "lat": 31.529289,
