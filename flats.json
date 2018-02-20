@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Shahmeer's Executive Appartment Gulberg",
+    "imageUrl": "",
+    "price": 24,
+    "priceCurrency": "$",
+    "lat": 31.510409,
+    "lng": 74.3425194
+  },
+  {
+    "id": 2,
+    "name": "Alnoor Luxury Apartments Lahore",
+    "imageUrl": "",
+    "price": 20,
+    "priceCurrency": "$",
+    "lat": 31.501371,
+    "lng": 74.3202626
+  },
+  {
+    "id": 3,
+    "name": "Modern Bedroom Executive Cottage Lahore Home",
+    "imageUrl": "",
+    "price": 16,
+    "priceCurrency": "$",
+    "lat": 31.48629,
+    "lng": 74.3352363
+  },
+  {
+    "id": 4,
+    "name": "Home out of Home at Arfa Software Technology Park",
+    "imageUrl": "",
+    "price": 25,
+    "priceCurrency": "$",
+    "lat": 31.4754377,
+    "lng": 74.3417156
+  },
+  {
+    "id": 5,
+    "name": "Royaute Luxury Suites - MM Alam Lahore",
+    "imageUrl": "",
+    "price": 22,
+    "priceCurrency": "$",
+    "lat": 31.521754,
+    "lng": 74.3467638
+  },
+  {
+    "id": 6,
+    "name": "3 Bedroom Independent Family Apartment at Nehr waala pull",
+    "imageUrl": "",
+    "price": 23,
+    "priceCurrency": "$",
+    "lat": 31.52074,
+    "lng": 74.3244096
+  },
+  {
+    "id": 7,
+    "name": "Lahore Palace Hotel near Jhoolay Laal Daal Chaawal",
+    "imageUrl": "",
+    "price": 17,
+    "priceCurrency": "$",
+    "lat": 31.526333,
+    "lng": 74.3311503
+  },
+  {
+    "id": 8,
+    "name": "1Bed Room + Workstation near Shagufta Beauty Parlour in Amazing Price",
+    "imageUrl": "",
+    "price": 21,
+    "priceCurrency": "$",
+    "lat": 31.529289,
+    "lng": 74.3293908
+  }
+]
